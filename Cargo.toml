@@ -8,7 +8,7 @@ license = "MIT"
 repository = "https://github.com/TrixSec/identyhash"
 readme = "README.md"
 keywords = ["hash", "identify", "hashes"]
-categories = ["cryptography", "utilities"]
+categories = ["cryptography"]
 
 [dependencies]
                  
